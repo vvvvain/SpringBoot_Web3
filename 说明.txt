@@ -1,0 +1,8 @@
+2023/9/4
+
+参考:
+《SpringBoot揭秘 快速构建微服务体系》第4章
+使用idea创建一个spring boot项目 https://www.jianshu.com/p/477796529ed3
+
+访问 http://localhost:8080/
+输出:Hello,Daimin!2023/9/4
